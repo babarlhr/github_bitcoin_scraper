@@ -1,5 +1,4 @@
-# github_bitcoin_scraper
-Web scrape data from Github repository
+# Web scrape data from Github repository
 
 URL : https://github.com/bitcoin/bitcoin/graphs/commit-activity
 
